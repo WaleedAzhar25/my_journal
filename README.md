@@ -1,5 +1,6 @@
 **Privacy Policy**
 
+
 This privacy policy applies to the My Journal app (hereby referred to as "Application") for mobile devices that was created by Waleed Azhar (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
